@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ V I C T U S ⚡
+# V I C T U S
 
 **AIORI Hackathon 3 | Cloud Computing**
 
